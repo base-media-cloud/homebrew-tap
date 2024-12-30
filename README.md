@@ -1,2 +1,6 @@
 # homebrew-tap
-Homebrew Formulaes to @base-media-cloud binaries
+Homebrew Formulae to @base-media-cloud binaries
+
+```bash
+  brew install base-media-cloud/tap/<cask>
+```
